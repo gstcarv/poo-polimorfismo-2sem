@@ -1,4 +1,4 @@
-package br.com.atividadepolimorfismo;
+package br.com.atividadepolimorfismo.formas;
 
 public class Forma {
 	
